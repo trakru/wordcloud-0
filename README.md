@@ -1,2 +1,2 @@
 # wordcloud-0
-WordCloud Repo v0
+Repository for generating WordCloud within R
